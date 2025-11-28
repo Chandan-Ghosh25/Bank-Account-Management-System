@@ -1,4 +1,4 @@
-# CodeAlpha_High-Banking-System-Mini-Project-
+#  Bank Account Management System 
 
 The Bank Account Management System is a console-based application developed using the C programming language. This project is designed to simulate basic banking operations with a simple and user-friendly, menu-driven interface. It enables users to manage bank accounts efficiently by performing essential functions such as creating an account, depositing money, withdrawing money, and checking account balance.
 
